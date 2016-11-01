@@ -1,0 +1,14 @@
+h1{
+	margin-left: 400px;
+}
+select{
+	width: 50%;
+}
+.card {
+	text-align: center;
+	border: solid black 2px;
+	background-color: lightblue;
+	float: left;
+	width: 33%;
+	margin: 5px;	
+}
